@@ -1,4 +1,4 @@
-## Platform Whitepaper: Accounts Service and Trading Engine
+## AXB Zero Whitepaper: Accounts Service and Trading Engine
 
 ### Executive summary
 This whitepaper describes the architecture, data flow, and operational model of our Accounts Service and low‑latency Trading Engine. It explains how authentication, rules/limits, pre‑trade risk, execution, positions, ledger, and real‑time metrics collaborate to deliver a capital‑safe, transparent trading experience. Small code examples are included to illustrate usage.
