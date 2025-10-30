@@ -114,7 +114,6 @@ Notes:
 ```ts
 import { placeMarketOrder } from '../src/lib/engineClient';
 
-// Ensure localStorage keys are set: active_account_id, tenant_bearer
 await placeMarketOrder('EUR/USD', 'buy', 1.0, {
   stopLoss: 1.0750,
   takeProfit: 1.0900,
